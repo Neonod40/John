@@ -210,6 +210,75 @@ h1 {
     max-width: 418px;
 }
 
+.f_works{
+    padding-top: 15px;
+    padding-bottom: 83px;
+}
+.f_works .container{
+    max-width: 858px;
+}
+
+.f_works h4 {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    color: #21243D;
+}
+
+.f_works .container .f_w_block{
+    border-bottom: 1px solid #E0E0E0;
+    padding-bottom: 31px;
+    margin-bottom: 31px;
+}
+.f_works_photo{
+    max-width: 246px;
+    margin-right: 18px;
+}
+
+.f_works .container .f_w_block h2{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    color: #21243D;
+}
+
+.f_works .container .f_w_block article span:first-of-type{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+    background: #142850;
+    border-radius: 16px;
+    padding: 0 10px;
+    margin-right: 26px;
+}
+.f_works .container .f_w_block article span:last-of-type{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #8695A4;
+
+}
+
+.f_works .container .f_w_block p{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #21243D;
+}
+
+
+
 .main_forms {
     background: #000000;
     padding-top: 68px;
